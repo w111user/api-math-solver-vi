@@ -1,0 +1,26 @@
+# Core dependencies
+google-genai>=1.0.0
+google>=3.0.0
+openai>=1.0.0
+sympy>=1.12
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Web interface
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Image processing
+pillow>=10.0.0
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+
+# Additional utilities
+requests>=2.31.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Development
+jupyter>=1.0.0
+ipython>=8.14.0

@@ -142,9 +142,6 @@ Phương trình có nghiệm: [2, 3]
 *   **Thêm Solver**: Tích hợp các API AI khác (OpenAI GPT, Claude, v.v.).
 *   **Giao diện Web Đơn giản**: Xây dựng frontend bằng Streamlit hoặc HTML/JS để nhập bài toán và xem kết quả.
 
-## 📄 Giấy Phép
-Dự án này được phân phối dưới giấy phép MIT. Xem tệp `LICENSE` để biết thêm thông tin.
-
 ## 👏 Đóng Góp
 Mọi đóng góp, báo cáo lỗi (bug reports) và yêu cầu tính năng (feature requests) đều được hoan nghênh! Vui lòng tạo một **Issue** hoặc **Pull Request** trên GitHub.
 

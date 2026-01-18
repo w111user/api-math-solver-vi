@@ -93,7 +93,7 @@ def test_all_engines():
     print("🧪 TEST TẤT CẢ ENGINES")
     print("="*60)
     
-    test_problem = "Giải phương trình: x^2 - 5x + 6 = 0"
+    test_problem = "x^2-5x+6=0"
     
     engines = []
     
@@ -103,7 +103,6 @@ def test_all_engines():
         start = time.time()
         result = solver.solve(test_problem)
         end = time.time()
-        
         engines.append({
             'name': 'SymPy',
             'time': end - start,

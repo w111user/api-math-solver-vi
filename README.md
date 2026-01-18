@@ -56,8 +56,8 @@ pip install -r requirements.txt
 
 *   **Cách 2**: Tạo hoặc chỉnh sửa tệp `api_keys.txt` trong thư mục gốc:
     ```
-    DEEPSEEK_API_KEY=sk_your_actual_deepseek_key_here
-    GEMINI_API_KEY=AIza_your_actual_gemini_key_here
+    DEEPSEEK_API_KEY=<your deepseek api key here>
+    GEMINI_API_KEY=<your gemini api key here>
     ```
     **⚠️ Cảnh báo:** Không bao giờ commit file chứa API Key thật lên GitHub!
 

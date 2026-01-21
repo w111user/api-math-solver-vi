@@ -34,7 +34,7 @@ class DeepSeekSolver(BaseSolver):
                 messages=[
                     {
                         "role": "system", 
-                        "content": "Bạn là chuyên gia toán học. Hãy giải bài toán chi tiết từng bước bằng tiếng Việt."
+                        "content": "Bạn là chuyên gia toán học. Hãy giải bài toán chi tiết từng bước bằng tiếng Việt. Lưu ý: viết theo định dạng kí hiệu giống notepad, không viết lệnh ra hiệu kí hiệu giống bản web."
                     },
                     {"role": "user", "content": problem}
                 ],

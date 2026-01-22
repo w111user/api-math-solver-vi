@@ -20,7 +20,7 @@ Một hệ thống API giải toán linh hoạt và mạnh mẽ, kết hợp s�
 api-math-solver-vi/
 ├── main.py                     # Ứng dụng chính, giao diện điều khiển
 ├── requirements.txt            # Danh sách các thư viện Python cần thiết
-├── api_keys.txt                # Lưu trữ API Keys (CẨN THẬN với file này!)
+├── api_keys.txt                # Lưu trữ API Keys (Có thể tạo file này bằng lựa chọn số 6. CẨN THẬN với file này!)
 └── solvers/                    # Thư mục chứa tất cả các trình giải (solver)
     ├── __init__.py
     ├── base_solver.py          # Lớp cơ sở (BaseMathSolver) định nghĩa giao diện chung

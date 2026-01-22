@@ -98,7 +98,7 @@ Bạn có thể nhập các dạng bài toán như:
 *   **Chi phí**: Cần có API Key và có thể phát sinh chi phí theo token.
 
 ### `GeminiSolver`
-*   **Mô tả**: Sử dụng Google Gemini API (ví dụ: `gemini-1.5-flash`).
+*   **Mô tả**: Sử dụng Google Gemini API (ví dụ: `gemini-2.5-flash`).
 *   **Ưu điểm**: Tốc độ nhanh, chi phí thấp, giải thích mạch lạc.
 *   **Chi phí**: Cần có API Key, có hạn mức miễn phí nhất định.
 

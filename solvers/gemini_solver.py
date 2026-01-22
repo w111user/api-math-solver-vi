@@ -20,7 +20,7 @@ class GeminiSolver(BaseSolver):
             self.model = "gemini-2.5-flash"
             self.initialized = True
         except ImportError:
-            raise ImportError("Vui lòng cài đặt thư viện: pip install google-genai [citation:4]")
+            raise ImportError("Vui lòng cài đặt thư viện google-genai [citation:4]")
         except Exception as e:
             raise Exception(f"Khởi tạo Gemini thất bại: {str(e)}")
     
